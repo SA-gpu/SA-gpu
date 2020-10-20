@@ -7,8 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Test Automation Engineer @ Nisum 
-- 🌱 I’m currently learning Cypress, Cross Site Scripting (XSS)
+- ⚡ Learning DevOps 
 <!--
+- 🌱 I’m currently learning Cypress, Cross Site Scripting (XSS)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
