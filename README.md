@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as Test Automation Engineer @ Nisum 
+- 🔭 Currently working as Test Automation Engineer @ Nisum 
 - ⚡ Learning DevOps 
 <!--
 - 🌱 I’m currently learning Cypress, Cross Site Scripting (XSS)
