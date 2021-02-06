@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAQIB AHMED</h1>
+<h1 align="center">Hi 👋, I'm Saqib Ahmed</h1>
 <h3 align="center">I'm a Quality Engineer, Automation & DevOps lover</h3>
 
 
